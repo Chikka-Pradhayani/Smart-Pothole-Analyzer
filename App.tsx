@@ -1,5 +1,5 @@
-
 import React, { useState } from 'react';
+import './index.css';
 import Header from './components/Header';
 import DetectionOverlay from './components/DetectionOverlay';
 import StatsPanel from './components/StatsPanel';
