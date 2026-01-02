@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import './index.css';
+import { analyzeImage, resolveLocation } from './services/geminiService';
+import { AppState, LocationData } from './types';
 import Header from './components/Header';
 import DetectionOverlay from './components/DetectionOverlay';
 import StatsPanel from './components/StatsPanel';
-import { analyzeImage, resolveLocation } from './services/geminiService';
-import { AppState, LocationData } from './types';
+
 
 const App: React.FC = () => {
   const [state, setState] = useState<AppState>({
