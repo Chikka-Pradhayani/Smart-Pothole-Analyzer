@@ -2,7 +2,11 @@
 
 A web application for detecting and reporting potholes using image input and location data.  
 This project is built using **React + TypeScript + Vite**.
-
+---
+## 🌐 Live Application
+🔗 *Access the app here:*  
+https://ai.studio/apps/drive/1S1JBvkdpTpWNQccTPcroWNSnbVKVh1T9
+👉 
 ---
 
 ## 🎥 Demo Video
