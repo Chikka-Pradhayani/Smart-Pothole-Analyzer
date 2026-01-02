@@ -15,7 +15,7 @@ Watch the demo walkthrough of the application:
 ## 📑 Project Presentation (PPT)
 Download / view the project presentation here:
 
-👉 https://www.canva.com/design/DAG9SDm6vUI/rf85uWVy8rR8kycMfGVuyg/view?utm_content=DAG9SDm6vUI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9e2a6e8493
+👉https://www.canva.com/design/DAG9SDm6vUI/-vnzb5zZMYahnZDbkJhzuw/edit?utm_content=DAG9SDm6vUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
