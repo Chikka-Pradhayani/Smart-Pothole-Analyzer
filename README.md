@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Pothole Detection Application
 
-# Run and deploy your AI Studio app
+A web application for detecting and reporting potholes using image input and location data.  
+This project is built using **React + TypeScript + Vite**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1S1JBvkdpTpWNQccTPcroWNSnbVKVh1T9
+## 🎥 Demo Video
+Watch the demo walkthrough of the application:
 
-## Run Locally
+👉 https://drive.google.com/file/d/1Gxkv1ADmwocZ2ZIPrWcOMneXxveQjHM6/view?usp=drivesdk
 
-**Prerequisites:**  Node.js
+---
 
+## 📑 Project Presentation (PPT)
+Download / view the project presentation here:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+👉 https://www.canva.com/design/DAG9SDm6vUI/rf85uWVy8rR8kycMfGVuyg/view?utm_content=DAG9SDm6vUI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9e2a6e8493
+
+---
+
+## 🚀 Features
+
+- Upload or capture pothole images
+- Detect pothole locations
+- Store and manage reports
+- Clean and simple UI
+- Fast and lightweight frontend
+
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- TypeScript  
+- Vite  
+- HTML / CSS / JavaScript
+
+---
+
+## 🧩 Installation & Setup (Local)
+
+```bash
+npm install
+npm run dev
