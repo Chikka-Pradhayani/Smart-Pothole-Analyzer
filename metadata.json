@@ -1,0 +1,8 @@
+{
+  "name": " AI Pothole Detection Pro",
+  "description": "A high-performance pothole detection system using Gemini Vision to identify, locate, and assess the severity of road hazards.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
